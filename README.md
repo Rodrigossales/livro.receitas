@@ -4,4 +4,6 @@ Olá! Bem vindo ao meu livro de receitas :hand:
 
 Receitas:
 
-:black_circle: Strogonoff
+- Strogonoff
+- Bolo de cenoura
+- Pavê
